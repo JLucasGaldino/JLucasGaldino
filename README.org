@@ -1,7 +1,24 @@
 * Lucas Galdino
-Hello there! My name is Lucas. I'm a Canadian student of biomedical sciences planning on pursuing a master's in computational and cognitive neuroscience. I am fascinated by the effect that keeping different practices or habits can have on our mind, and my goal is to do research in that area and share it with others. 
+Hello there! I'm Lucas Galdino. I'm a Canadian student of biomedical sciences, planning on pursuing a master's in computational and cognitive neuroscience. 
 
-Some other interests to mine are phylosophy, religion, coding, and business. I also sing and play piano and guitar.
+My main area of interest is the effect of keeping different practices and habits on our sense of fulfilment, and how we can find an [[https://awakentomeaning.com/starting-practice/][ecology of practices]] that can nurture our natural traits into skills that allow us to better participate in our own life and the life of our environment. My goal is to do research in that area and share it with as many people as possible.
 
-*My works, articles and videos on health and phylosophy
-[[https://github.com/JLucasGaldino/lucasgaldino_digitalgarden][Digital Garden]]
+Some other interests to mine are philosophy, religion, coding, and business. I also sing and play piano and guitar.
+
+* Current areas of study
+- Bachelors in Biomedical Science at the University of Ottawa.
+- Full stack web development through [[https://www.theodinproject.com][The Odin Project]]'s curriculum.
+
+* My general portfolio
+[[https://www.lucasgaldino.com][Portfolio]]
+
+* My works, articles and videos on health and phylosophy
+[[https://garden.lucasgaldino.com][Digital Garden]]
+[[https://www.youtube.com/@imlucasgaldino][YouTube Channel]]
+
+* My web development projects, from latest to earliest
+[[https://github.com/JLucasGaldino/landing-page][Landing page layout (CSS flex)]]
+
+Recipes website built with pure HTML
+- [[https://github.com/JLucasGaldino/odin-recipes][Source code.)]]
+- [[https://jlucasgaldino.github.io/odin-recipes/][Live preview.]]
