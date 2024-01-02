@@ -1,7 +1,7 @@
 * Lucas Galdino
 Hello there! I'm Lucas Galdino. I'm a Canadian student of biomedical sciences, planning on pursuing a master's in computational and cognitive neuroscience. 
 
-My main area of interest is the effect of keeping different practices and habits on our sense of fulfilment, and how we can find an [[https://awakentomeaning.com/starting-practice/][ecology of practices]] that can nurture our natural traits into skills that allow us to better participate in our own life and the life of our environment. My goal is to do research in that area and share it with as many people as possible.
+My main area of interest is the effect of keeping different practices and habits on our cognition, and how we can cultivate an [[https://awakentomeaning.com/starting-practice/][ecology of practices]] to nurture our sense of purpose and fulfilment. My goal is to do research in that area and share it with as many people as possible.
 
 Some other interests to mine are philosophy, religion, coding, and business. I also sing and play piano and guitar.
 
@@ -13,12 +13,26 @@ Some other interests to mine are philosophy, religion, coding, and business. I a
 [[https://www.lucasgaldino.com][Portfolio]]
 
 * My works, articles and videos on health and phylosophy
-[[https://garden.lucasgaldino.com][Digital Garden]]
-[[https://www.youtube.com/@imlucasgaldino][YouTube Channel]]
+- [[https://garden.lucasgaldino.com][Digital Garden]]
+- [[https://www.youtube.com/@imlucasgaldino][YouTube Channel]]
 
 * My web development projects, from latest to earliest
-[[https://github.com/JLucasGaldino/landing-page][Landing page layout (CSS flex)]]
+Calculator written in JavaScript:
+- [[https://github.com/JLucasGaldino/Calculator][Source code]]
+- [[https://jlucasgaldino.github.io/Calculator/][Live preview]]
 
-Recipes website built with pure HTML
-- [[https://github.com/JLucasGaldino/odin-recipes][Source code.)]]
-- [[https://jlucasgaldino.github.io/odin-recipes/][Live preview.]]
+Simple drawing program, written in JavaScript:
+- [[https://github.com/JLucasGaldino/etch-a-sketch][Source code]]
+- [[https://jlucasgaldino.github.io/etch-a-sketch/][Live preview]]
+
+Simple game of rock, paper, scissors written in JavaScript:
+- [[https://github.com/JLucasGaldino/rockPaperScissors][Source code]]
+- [[https://jlucasgaldino.github.io/rockPaperScissors/][Live preview]]
+
+Landing page layout built with CSS flex:
+- [[https://github.com/JLucasGaldino/landing-page][Source code]]
+- [[https://jlucasgaldino.github.io/landing-page/][Live preview]]
+
+Recipes website built with pure HTML:
+- [[https://github.com/JLucasGaldino/odin-recipes][Source code]]
+- [[https://jlucasgaldino.github.io/odin-recipes/][Live preview]]
