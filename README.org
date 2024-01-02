@@ -16,6 +16,9 @@ Some other interests to mine are philosophy, religion, coding, and business. I a
 - [[https://garden.lucasgaldino.com][Digital Garden]]
 - [[https://www.youtube.com/@imlucasgaldino][YouTube Channel]]
 
+* My digital marketing projects
+[[https://www.speakando.com][Speakando]], a community-based language learning platform.
+
 * My web development projects, from latest to earliest
 Calculator written in JavaScript:
 - [[https://github.com/JLucasGaldino/Calculator][Source code]]
