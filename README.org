@@ -1,2 +1,7 @@
 * Lucas Galdino
-Hello there! My name is Lucas. I'm a Canadian student of biomedical sciences with a keen interest in computational and cognitive neuroscience. I am fascinated by the effect of practice and habit on our mind. Some other areas of interest to me are phylosophy, religion, coding, and business. I also play the piano and the guitar, because music is math you can listen to.
+Hello there! My name is Lucas. I'm a Canadian student of biomedical sciences planning on pursuing a master's in computational and cognitive neuroscience. I am fascinated by the effect that keeping different practices or habits can have on our mind, and my goal is to do research in that area and share it with others. 
+
+Some other interests to mine are phylosophy, religion, coding, and business. I also sing and play piano and guitar.
+
+*My works, articles and videos on health and phylosophy
+[[https://github.com/JLucasGaldino/lucasgaldino_digitalgarden][Digital Garden]]
