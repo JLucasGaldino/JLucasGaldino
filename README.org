@@ -1,24 +1,19 @@
 * Lucas Galdino
 Hello there! I'm Lucas Galdino. I'm a Canadian student of biomedical sciences and data science, a musician, and an Orthodox Christian.
 
-My main areas of interest
-
-My work consists
-
-My main area of interest is the effect of keeping different practices and habits on our cognition, and how we can cultivate an [[https://awakentomeaning.com/starting-practice/][ecology of practices]] to nurture our sense of purpose and fulfilment. My goal is to do research in that area and share it with as many people as possible.
-
 * Current areas of study
 - Bachelors in Biomedical Science at the University of Ottawa.
 - Full stack web development through [[https://www.theodinproject.com][The Odin Project]]'s curriculum.
 - AI and Data Science with TELUQ.
 
-* My works, articles and videos on health and philosophy
+* My articles and videos on health and philosophy
 - [[https://www.lucasgaldino.com][Personal website]]
 - [[https://www.youtube.com/@imlucasgaldino][YouTube Channel]]
 
-
-* My digital marketing projects
-- [[https://www.speakando.com][Speakando]], a community-based language learning platform.
+* My apps and repos
+** Praxis - Orthodox Prayers, Fasting, and Calendar
+- [[https://github.com/JLucasGaldino/Praxis][Source code]]
+- [[https://apt.izzysoft.de/fdroid/index/apk/com.jlucasgaldino.Praxis][IzzyOnDroid]]
 
 * My web development projects, from latest to earliest
 Calculator written in JavaScript:
